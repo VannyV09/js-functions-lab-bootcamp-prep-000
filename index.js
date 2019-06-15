@@ -2,6 +2,6 @@
 function happyHolidays(string) {
   return ("Happy holidays!");
 }
-function say(happyHolidaysTo, you) {
-  console.log('${Happy holidays To}, ${you}!')
+function happyHolidaysTo(you) {
+  return ("Happy holidays, ${you}!");
 }
